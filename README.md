@@ -2,7 +2,7 @@
 
 wiki知识库正在完善喵，我们诚挚地邀请您对其做出补充 ~ >>[Github](https://github.com/NFLSEdition/wiki)
 
-卫星地图 >> [传送门](mc.nflsedition.com:26165)
+卫星地图 >> [传送门](https://mc.nflsedition.com:26165)
 
 # 当前页面>南外手艺 
 
