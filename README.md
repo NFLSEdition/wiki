@@ -2,8 +2,6 @@
 
 wiki知识库正在完善喵，我们诚挚地邀请您对其做出补充 ~ >>[Github](https://github.com/NFLSEdition/wiki)
 
-申请白名单请见[白名单申请](wiki/whitelist-add.md)页
-
 # 当前页面>南外手艺 
 
 服务器运行版本 Paper 1.15.2 Online mode
